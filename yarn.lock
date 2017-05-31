@@ -3570,6 +3570,10 @@ pinkie@^2.0.0:
   version "2.0.4"
   resolved "https://registry.yarnpkg.com/pinkie/-/pinkie-2.0.4.tgz#72556b80cfa0d48a974e80e77248e80ed4f7f870"
 
+polished@^1.1.2:
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/polished/-/polished-1.1.2.tgz#211a7b0abbc3dd25101f4e95399e72edf7317f0e"
+
 portfinder@^1.0.9:
   version "1.0.13"
   resolved "https://registry.yarnpkg.com/portfinder/-/portfinder-1.0.13.tgz#bb32ecd87c27104ae6ee44b5a3ccbf0ebb1aede9"

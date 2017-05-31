@@ -1,11 +1,15 @@
 import * as React from 'react'
 import styled from 'styled-components'
+import { color } from '../../constants/styles'
 
-const StyledHeader = styled.header`
-  background-color: #FBFBFB;
+export const StyledHeader = styled.header`
+  border-bottom: 5px solid ${ color.darkblue };
+  color: ${ color.darkblue };
   padding: 20px;
   margin: 0 -20px;
-  box-shadow: 0px 0px 9px rgba(0, 0, 0, .15);
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 1px;
 `
 
 type Props = {}

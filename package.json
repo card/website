@@ -7,6 +7,7 @@
     "@types/node": "^7.0.22",
     "@types/react": "^15.0.24",
     "@types/react-dom": "^15.5.0",
+    "polished": "^1.1.2",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
     "styled-components": "^2.0.0"

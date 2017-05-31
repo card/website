@@ -4,7 +4,7 @@ import { size } from '../../constants/styles'
 
 const StyledWrapper = styled.div`
   background-color: white;
-  margin: 0px auto;
+  margin: 10vh auto;
   width: ${ size.container };
   max-width: 95%;
   min-height: 100vh;

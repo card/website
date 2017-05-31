@@ -27,6 +27,6 @@
     "src/setupTests.ts"
   ],
   "types": [
-    "typePatches"
+    "typings"
   ]
 }

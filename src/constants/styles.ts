@@ -1,7 +1,8 @@
 export const color = {
-  darkblue: '#004A7C'
+  darkblue: '#2b5a84',
+  deepDarkBlue: '#2e3243'
 }
 
 export const size = {
-  container: '1024px'
+  container: '1000px'
 }
